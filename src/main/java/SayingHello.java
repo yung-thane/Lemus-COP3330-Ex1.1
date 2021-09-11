@@ -1,6 +1,6 @@
 /*
  * UCF COP3330 Fall 2021 Assignment 1.1 Solution
- * Copyright 2021 Ronald Lemus
+ * Copyright 2021 Ronald Lemuss
  */
 
 import java.util.Scanner;
