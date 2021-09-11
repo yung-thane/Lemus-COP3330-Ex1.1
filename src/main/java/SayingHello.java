@@ -5,7 +5,8 @@ public class SayingHello {
        System.out.print("What is your name?");
        Scanner name = new Scanner(System.in);
 
+        String name1 = name.nextLine();
 
-       System.out.println("Hello %");
+       System.out.printf("%s%s%s","Hello, ",name1," nice to meet you!");
    }
 }
